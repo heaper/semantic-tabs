@@ -7,16 +7,16 @@ jQuery plugin that applies a tabbed interface to semantic markup.
 ```
 <div class="beer">  				
 	<section id="stout">
-			<h3>Stout</h3>
-      <p>Description 1</p>
+		<h3>Stout</h3>
+		<p>Description 1</p>
 	</section>
-  <section id="ipa">
+ 	<section id="ipa">
   		<h3>IPA</h3>
-      <p>Description 2</p>
+		<p>Description 2</p>
 	</section>
-  <section id="porter">
+  	<section id="porter">
   		<h3>Porter</h3>
-      <p>Description 3</p>
+		<p>Description 3</p>
 	</section>
 </div>
 ```
